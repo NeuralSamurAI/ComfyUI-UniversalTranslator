@@ -40,4 +40,4 @@ This node uses the following libraries:
 googletrans
 deep-translator
 
-Special thanks to the ComfyUI community and the developers of the translation libraries used in this project.
+Special thanks to the ComfyUI community and the developers of the translation libraries used in this project.  Last but not least a big shoutout to the Banodoco community who continues to share and inspire everyday!
