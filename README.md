@@ -6,14 +6,7 @@ This custom node for ComfyUI provides text translation capabilities using variou
 
 -Translate text from any language to any other language
 
--Support for multiple translation services:
-
-  Google Translate (using googletrans)
   Google Translate (using deep_translator)
-  MyMemory
-  Linguee
-  Pons
-
 
 -Optional Auto-detection of source language
 -Easy-to-use dropdown menus for language selection
