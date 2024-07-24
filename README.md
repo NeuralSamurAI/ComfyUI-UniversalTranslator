@@ -25,6 +25,10 @@ Choose the target language.
 Pick a translation service.
 Run your workflow to get the translated text.
 
+## Workflows
+
+Example workflows for HunyuanDiT and Kolors are included in the assets folder
+
 ## Notes
 
 Some translation services (like Linguee and Pons) support a limited set of language pairs. You may encounter errors if you choose unsupported language combinations for these services.
