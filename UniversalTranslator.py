@@ -45,6 +45,9 @@ class TranslationNode:
         translator = GoogleTranslator(source=source_lang, target=target_lang)
         return translator.translate(text)
 
+    # Will need to implement some sort of map to get the rest of the translators working.
+    # Honestly though, I probably wont do it unless for some reason its really needed.  Google does more languages than any of these other options.
+  
     def mymemory_translate(self, text, source_lang, target_lang):
         translator = MyMemoryTranslator(source=source_lang, target=target_lang)
         return translator.translate(text)
