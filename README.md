@@ -1,4 +1,7 @@
 # ComfyUI-UniversalTranslator
+
+<img src="/assets/comfyui-universaltranslator.png" alt="Alt text" title="Optional title" style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 Translate bidirectionally between any 2 languages.  Useful for "&lt;language> to Chinese" prompting in Kolors, HunyuanDiT and other chinese AI image generation models.  ComfyUI Universal Translation Node
 This custom node for ComfyUI provides text translation capabilities using various free translation services.
 
